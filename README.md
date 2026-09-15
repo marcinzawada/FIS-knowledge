@@ -11,6 +11,8 @@ To repozytorium jest `second brain` dla wiedzy domenowej i technicznej dotycząc
 
 Nie próbujemy od razu tworzyć idealnej dokumentacji. Najpierw zapisujemy przydatne odkrycie, następnie podłączamy je do właściwych tematów i uzupełniamy, gdy pojawi się nowy kontekst.
 
+Pierwszym punktem wejścia do wspólnej terminologii jest [słownik FIS / SICS / ReInsurance](glossary.md).
+
 ## Język i terminologia
 
 Treść zapisujemy po polsku. Nazwy systemów, komponentów, klas, tabel, endpointów, zdarzeń oraz terminy domenowe i techniczne pozostają po angielsku. Nie tłumaczymy nazw własnych ani terminów, które występują w kodzie lub dokumentacji źródłowej.
